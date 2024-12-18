@@ -1,11 +1,2 @@
-
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Coursera is Cool!</title>
-</head>
-<body>
-Coursera is so COOL! I am learning SO much!
-</body>
-</html>
+#coursera-test
+Coursera test repository
